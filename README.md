@@ -78,7 +78,7 @@ I’m committed to leveraging my diverse skills in full stack development and cl
     <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100" style="padding-top: 0; padding-bottom: 0; border-radius: 0.5rem;">
       <br>
       <h4 style="text-align:left; color: #0563bb;">
-        <a href="https://github.com/harshnagoriya/Face-Recognition-on-a-PAAS" target="_blank" style="color: #0563bb;">
+        <a href="https://github.com/subham1997007/Face-Recognition-on-a-PAAS" target="_blank" style="color: #0563bb;">
           Face Recognition on a PAAS
           <sup><i class="fa fa-external-link" style="font-size:12px"></i></sup>
         </a>
@@ -103,7 +103,7 @@ I’m committed to leveraging my diverse skills in full stack development and cl
     <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100" style="padding-top: 0; padding-bottom: 0; border-radius: 0.5rem;">
       <br>
       <h4 style="text-align:left; color: #0563bb;">
-        <a href="https://github.com/harshnagoriya/Face-Recognition-as-a-Service" target="_blank" style="color: #0563bb;">
+        <a href="https://github.com/subham1997007/Face-Recognition-as-a-Service" target="_blank" style="color: #0563bb;">
           Face Recognition as a Service
           <sup><i class="fa fa-external-link" style="font-size:12px"></i></sup>
         </a>
@@ -127,7 +127,10 @@ I’m committed to leveraging my diverse skills in full stack development and cl
     <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100" style="padding-top: 0; padding-bottom: 0; border-radius: 0.5rem;">
       <br>
       <h4 style="text-align:left; color: #0563bb;">
-        Helmet Detection System
+       <a href="https://github.com/subham1997007/Live-Helmet-Detection" target="_blank" style="color: #0563bb;">
+          Helmet Detection System
+          <sup><i class="fa fa-external-link" style="font-size:12px"></i></sup>
+        </a>
       </h4>
       <h6 style="text-align:left;">
         Machine Learning, Single Shot MultiBox Detector, OpenCV, YOLOv3, Python
@@ -148,7 +151,7 @@ I’m committed to leveraging my diverse skills in full stack development and cl
     <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100" style="padding-top: 0; padding-bottom: 0; border-radius: 0.5rem;">
       <br>
       <h4 style="text-align:left; color: #0563bb;">
-        <a href="https://github.com/harshnagoriya?tab=repositories" target="_blank" style="color: #0563bb;">
+        <a href="https://github.com/subham1997007?tab=repositories" target="_blank" style="color: #0563bb;">
           Other Small Projects
           <sup><i class="fa fa-external-link" style="font-size:12px"></i></sup>
         </a>
