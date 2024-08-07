@@ -28,11 +28,11 @@ Here’s a bit more about my skill set:
 I’m committed to leveraging my diverse skills in full stack development and cloud computing to create innovative, high-quality software solutions and contribute effectively to dynamic projects.
 </p>
 
-- 🔭 I’m currently working on **IDTC Application Implementing Azure Blob Storage implementation and Migration**
-- 🌱 I’m currently learning **Golang, Angular**
+- 🔭 I’m currently working on **the intersection of Cloud Computing and Software Testing & Development**
+- 🌱 I’m currently learning **Industrial IoT and Cloud Computing**
 - 👯 I’m looking to collaborate on **Cloud Native projects**
 - 🤝 I’m looking for help with **DevOps**
-- 💬 Ask me about **Java, Spring Boot, Angular**
+- 💬 Ask me about **Data Structures, Algorithms, Software Engineering, Cloud Computing, and Enterprise J2EE Java**
 - 📫 How to reach me: **Subhptps@gmail.com**
 
 <h3 align="left">Education</h3>
@@ -191,20 +191,11 @@ I’m committed to leveraging my diverse skills in full stack development and cl
  <abc>
   <h2>Connect with me:</h2>
   <p align="left">
-  <a href="https://github.com/harshnagoriya" target="_blank" >
+  <a href="https://github.com/subham1997007/Subham-Kumar/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/harshnagoriya/" target="_blank">
+  <a href="https://www.linkedin.com/in/subham-kumar-bb363317a/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
-  </a>
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="40" height="40"/>
-  </a>
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/>
-  </a>
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="facebook" width="40" height="40"/>
   </a>
   </p>
  </abc>
