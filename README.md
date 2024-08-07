@@ -194,7 +194,7 @@ I’m committed to leveraging my diverse skills in full stack development and cl
   <a href="https://github.com/subham1997007/Subham-Kumar/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/subham-kumar-bb363317a/" target="_blank">
+  <a href="https://www.linkedin.com/in/subham-gc7784" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
   </a>
   </p>
