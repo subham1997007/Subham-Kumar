@@ -122,29 +122,7 @@ I’m committed to leveraging my diverse skills in full stack development and cl
   </div>
 
 
-
-  <!-- Project 6 -->
-  <div class="col-lg-12" data-aos="fade-up">
-    <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100" style="padding-top: 0; padding-bottom: 0; border-radius: 0.5rem;">
-      <br>
-      <h4 style="text-align:left; color: #0563bb;">
-        Student Attendance System using Face Recognition
-      </h4>
-      <h6 style="text-align:left;">
-        Machine Learning, Eigen Faces, OpenCV, RaspberryPI, Python
-        <span style="float:right;">Feb 2020 – May 2020</span>
-      </h6>
-      <ul style="text-align:left;">
-        <li>Designed and implemented a Raspberry Pi-based system to automate attendance tracking, reducing time, effort, and resources by 50%.</li>
-        <li>Developed a face recognition system using Eigen matrix concept (Eigen Face) to detect and recognize human faces accurately and quickly through images and videos captured by a camera.</li>
-        <li>Implemented the system to detect faces within the images and compare them with the database of registered faces to mark student attendance as absent.</li>
-        <li>Designed and executed tests to ensure the accuracy and reliability of the face recognition system, achieving a 95% success rate in recognizing registered faces.</li>
-      </ul>
-      <br>
-    </div>
-  </div>
-
-  <!-- Project 7 -->
+  <!-- Project 3 -->
   <div class="col-lg-12" data-aos="fade-up">
     <div class="col-md-12 mt-4 mt-md-0 icon-box" data-aos="fade-up" data-aos-delay="100" style="padding-top: 0; padding-bottom: 0; border-radius: 0.5rem;">
       <br>
